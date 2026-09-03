@@ -1,0 +1,7 @@
+species,accession,source_database,sequence_length,status
+Homo sapiens,P00374,UniProt (direct accession),187,OK
+Mus musculus,NP_034179.1,NCBI RefSeq (Entrez),187,OK
+Rattus norvegicus,NP_569084.1,NCBI RefSeq (Entrez),187,OK
+Escherichia coli,NP_414590.1,NCBI RefSeq (Entrez),159,OK
+Saccharomyces cerevisiae,NP_014879.1,NCBI RefSeq (Entrez),211,OK
+Danio rerio,NP_571850.1,NCBI RefSeq (Entrez),190,OK

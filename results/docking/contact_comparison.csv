@@ -1,0 +1,6 @@
+pdb_id,mutation,docked_pose_direct_contact_residues,docked_pose_hbond_capable_contacts,note
+1U72,wild-type,6,3,"Counted from the top-ranked docked pose, not the original crystal ligand pose."
+1DLR,L22F,7,2,"Counted from the top-ranked docked pose, not the original crystal ligand pose."
+1DLS,L22Y,11,7,"Counted from the top-ranked docked pose, not the original crystal ligand pose."
+3EIG,F31R/Q35E,11,7,"Counted from the top-ranked docked pose, not the original crystal ligand pose."
+3F8Z,Q35S/N64S,8,3,"Counted from the top-ranked docked pose, not the original crystal ligand pose."

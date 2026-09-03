@@ -1,0 +1,39 @@
+DHFR expanded conservation dataset -- sequence exclusion log
+======================================================================
+Query: gene:DHFR AND reviewed:true (Swiss-Prot)
+Reviewed hits fetched: 23
+
+Length filter: keep 150-260 aa (single-domain, monomeric DHFR).
+This deliberately excludes bifunctional DHFR-thymidylate synthase (DHFR-TS)
+fusion proteins found in plants, kinetoplastid parasites (e.g. Leishmania,
+Trypanosoma), and apicomplexan parasites (e.g. Plasmodium) -- these run
+roughly 2-4x longer than a monofunctional DHFR domain and would badly
+distort a global multiple sequence alignment if included alongside single-domain sequences.
+
+Reviewed (Swiss-Prot) set:
+  kept (150-260 aa):  23
+  excluded, too short (<150 aa):  0
+  excluded, too long (>260 aa, likely fusion/multi-domain):  0
+
+Reviewed-only kept count (23) was below the minimum of 50, so unreviewed (TrEMBL) entries were also queried
+(gene:DHFR, reviewed:true filter dropped) and length-filtered the same way:
+  unreviewed hits fetched: 970
+  in length range (150-260 aa): 690
+  excluded, too short (<150 aa): 163
+  excluded, too long (>260 aa, likely fusion/multi-domain): 117
+  examples of excluded unreviewed entries (accession, organism, length):
+    A0A8U1F538  Salvelinus namaycush  778 aa  (too long (>260 aa, likely multi-domain/fusion))
+    A0A0B5L9B2  Plasmodium ovale wallikeri  641 aa  (too long (>260 aa, likely multi-domain/fusion))
+    D2CLW8  Plasmodium ovale  641 aa  (too long (>260 aa, likely multi-domain/fusion))
+    A0A0B5L5B6  Plasmodium ovale wallikeri  641 aa  (too long (>260 aa, likely multi-domain/fusion))
+    D2CLW7  Plasmodium ovale  641 aa  (too long (>260 aa, likely multi-domain/fusion))
+    A0A0B5L380  Plasmodium ovale wallikeri  639 aa  (too long (>260 aa, likely multi-domain/fusion))
+    D2CLW4  Plasmodium ovale  639 aa  (too long (>260 aa, likely multi-domain/fusion))
+    D2CLW6  Plasmodium ovale  639 aa  (too long (>260 aa, likely multi-domain/fusion))
+    A0A0B5L5B2  Plasmodium ovale curtisi  637 aa  (too long (>260 aa, likely multi-domain/fusion))
+    A0A0B5KSG2  Plasmodium ovale curtisi  637 aa  (too long (>260 aa, likely multi-domain/fusion))
+  Of those in range, entries were added prioritizing taxonomic diversity
+  (round-robin across genera, capped at 3 sequences/genus, so no single
+  well-studied genus -- e.g. multiple Mus musculus strain records -- crowds out breadth).
+
+Final dataset after deduplication by organism: 200 sequences (target range 50-200).

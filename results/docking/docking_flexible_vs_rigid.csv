@@ -1,0 +1,5 @@
+mutation,pdb_id,flexible_positions,vina_wt_rigid_kcal_mol,vina_mutant_rigid_kcal_mol,delta_vina_rigid_kcal_mol,vina_wt_flex_kcal_mol,vina_mutant_flex_kcal_mol,delta_vina_flex_kcal_mol,experimental_ddG_kcal_mol
+L22F,1DLR,22,-10.21,-8.97,1.24,-11.06,-9.47,1.59,3.91
+L22Y,1DLS,22,-10.21,-10.39,-0.18,-11.06,-11.41,-0.35,3.48
+F31R/Q35E,3EIG,"31,35",-10.21,-10.55,-0.34,-10.37,-10.16,0.21,3.86
+Q35S/N64S,3F8Z,"35,64",-10.21,-8.98,1.24,-10.18,-10.07,0.11,-0.4

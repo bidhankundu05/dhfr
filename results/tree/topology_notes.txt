@@ -1,0 +1,17 @@
+DHFR phylogenetic tree -- topology vs. known species relationships
+======================================================================
+Rooted on: Escherichia coli (outgroup; most divergent DHFR sequence per Modules 2-3 BLAST identity / BLOSUM62 similarity)
+
+* Mammals form a clade: MATCHES expected topology
+  Expectation: Human, mouse, and rat are all placental mammals and are expected to share a more recent common ancestor with each other than with fish, yeast, or bacteria.
+
+* Rodents are sister taxa: MATCHES expected topology
+  Expectation: Mouse and rat are both murid rodents and are expected to be each other's closest relative in the tree.
+
+* Vertebrates (mammals + fish) form a clade excluding yeast/bacteria: MATCHES expected topology
+  Expectation: Zebrafish is a vertebrate outgroup to mammals, but all four should still group together to the exclusion of the fungal (yeast) and bacterial (E. coli) sequences.
+
+* Eukaryotes form a clade excluding the bacterial outgroup: MATCHES expected topology
+  Expectation: All eukaryotic sequences (animals + yeast) should exclude E. coli, which is rooted as the outgroup precisely because bacteria diverged from eukaryotes earliest of this set.
+
+Note: a tree built from one gene (DHFR) is a *gene tree*, not the species tree itself -- they usually agree closely for a slowly-evolving, single-copy, non-hybridizing gene like DHFR, but rate variation or incomplete lineage sorting can occasionally cause local disagreements. Any 'does NOT match' result above is worth discussing rather than treating as an error.

@@ -1,0 +1,57 @@
+residue_number,residue,chain,min_distance_to_ligand_angstrom,contact_type,hydrophobic_contact,polar_hbond_capable,aromatic,is_resistance_position
+70,R,A,2.39,direct contact,False,True,False,False
+7,I,A,2.72,direct contact,True,False,False,False
+64,N,A,2.76,direct contact,False,True,False,True
+30,E,A,2.94,direct contact,False,True,False,False
+115,V,A,3.21,direct contact,True,False,False,False
+8,V,A,3.24,direct contact,True,False,False,False
+35,Q,A,3.29,direct contact,False,True,False,True
+121,Y,A,3.33,direct contact,False,True,True,False
+31,F,A,3.44,direct contact,True,False,True,True
+136,T,A,3.48,direct contact,False,True,False,False
+34,F,A,3.5,direct contact,True,False,True,False
+61,P,A,3.56,direct contact,True,False,False,False
+9,A,A,3.56,direct contact,True,False,False,False
+22,L,A,3.63,direct contact,True,False,False,True
+59,S,A,3.65,direct contact,False,True,False,False
+67,L,A,3.69,direct contact,True,False,False,False
+60,I,A,3.7,direct contact,True,False,False,False
+32,R,A,4.23,nearby,False,True,False,False
+56,T,A,4.26,nearby,False,True,False,False
+68,K,A,4.52,nearby,False,True,False,False
+21,D,A,4.74,nearby,False,True,False,False
+28,R,A,4.86,nearby,False,True,False,False
+114,I,A,5.07,nearby,False,False,False,False
+33,Y,A,5.11,nearby,False,True,True,False
+38,T,A,5.13,nearby,False,True,False,False
+116,G,A,5.14,nearby,False,False,False,False
+134,F,A,5.31,nearby,False,False,True,False
+39,T,A,5.54,nearby,False,True,False,False
+20,G,A,5.71,nearby,False,False,False,False
+24,W,A,5.94,nearby,False,True,True,False
+135,V,A,5.95,nearby,False,False,False,False
+65,R,A,6.22,nearby,False,True,False,False
+27,L,A,6.31,nearby,False,False,False,False
+179,F,A,6.35,nearby,False,False,True,False
+36,R,A,6.43,nearby,False,True,False,False
+6,C,A,6.45,nearby,False,True,False,False
+10,V,A,6.49,nearby,False,False,False,False
+66,P,A,6.76,nearby,False,False,False,False
+63,K,A,6.77,nearby,False,True,False,False
+55,K,A,6.87,nearby,False,True,False,False
+16,I,A,6.93,nearby,False,False,False,False
+69,G,A,6.95,nearby,False,False,False,False
+58,F,A,6.96,nearby,False,False,True,False
+29,N,A,7.03,nearby,False,True,False,False
+138,I,A,7.12,nearby,False,False,False,False
+57,W,A,7.19,nearby,False,True,True,False
+62,E,A,7.45,nearby,False,True,False,False
+26,P,A,7.5,nearby,False,False,False,False
+52,M,A,7.65,nearby,False,False,False,False
+113,W,A,7.66,nearby,False,True,True,False
+137,R,A,7.67,nearby,False,True,False,False
+117,G,A,7.68,nearby,False,False,False,False
+51,I,A,7.73,nearby,False,False,False,False
+37,M,A,7.74,nearby,False,False,False,False
+50,V,A,7.75,nearby,False,False,False,False
+72,N,A,7.86,nearby,False,True,False,False

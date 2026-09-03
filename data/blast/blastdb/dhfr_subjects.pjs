@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "dhfr_subjects",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "DHFR cross-species subjects",
+  "number-of-letters": 934,
+  "number-of-sequences": 5,
+  "last-updated": "2026-09-01T20:27:00",
+  "number-of-volumes": 1,
+  "bytes-total": 149095,
+  "bytes-to-cache": 1092,
+  "files": [
+    "dhfr_subjects.pdb",
+    "dhfr_subjects.phr",
+    "dhfr_subjects.pin",
+    "dhfr_subjects.pot",
+    "dhfr_subjects.psq",
+    "dhfr_subjects.ptf",
+    "dhfr_subjects.pto"
+  ]
+}

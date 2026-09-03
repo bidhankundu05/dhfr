@@ -1,0 +1,7 @@
+mutation,position,wt_residue,mut_residue,conservation_fraction,conservation_status,alignment_position,binding_site_proximity,direct_ligand_contact
+L22F,22,L,F,0.8333333333333334,NOT fully conserved across all fetched species,27,"active site (see results/structures/mutant_ligand_contacts.csv, Module 5)",
+L22Y,22,L,Y,0.8333333333333334,NOT fully conserved across all fetched species,27,"active site (see results/structures/mutant_ligand_contacts.csv, Module 5)",
+F31R,31,F,R,0.5,NOT fully conserved across all fetched species,38,"active site (see results/structures/mutant_ligand_contacts.csv, Module 5)",
+Q35E,35,Q,E,0.6666666666666666,NOT fully conserved across all fetched species,42,"active site (see results/structures/mutant_ligand_contacts.csv, Module 5)",
+Q35S,35,Q,S,0.6666666666666666,NOT fully conserved across all fetched species,42,"active site (see results/structures/mutant_ligand_contacts.csv, Module 5)",
+N64S,64,N,S,0.5,NOT fully conserved across all fetched species,71,"active site (see results/structures/mutant_ligand_contacts.csv, Module 5)",

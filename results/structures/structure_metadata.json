@@ -1,0 +1,154 @@
+{
+  "1U72": {
+    "title": "Understanding the Role of Leu22 Variants in Methotrexate Resistance: Comparison of Wild-type and Leu22Arg Variant Mouse and Human Dihydrfolate Reductase Ternary Crystal Complexes with Methotrexate and NADPH",
+    "organism": "Homo sapiens",
+    "experimental_method": "X-RAY DIFFRACTION",
+    "resolution_angstrom": 1.9,
+    "chains": [
+      "A"
+    ],
+    "residue_number_range": [
+      1,
+      186
+    ],
+    "missing_residue_gaps": [],
+    "residues_with_alternate_conformations": [],
+    "heteroatom_codes_present": [
+      "HOH",
+      "MTX",
+      "NDP"
+    ],
+    "expected_ligand_code": "MTX",
+    "expected_ligand_name": "methotrexate",
+    "ligand_present": true,
+    "is_wild_type": true,
+    "mutations": [],
+    "structure_source": "EXPERIMENTALLY DETERMINED wild-type reference"
+  },
+  "1DLR": {
+    "title": "METHOTREXATE-RESISTANT VARIANTS OF HUMAN DIHYDROFOLATE REDUCTASE WITH SUBSTITUTION OF LEUCINE 22: KINETICS, CRYSTALLOGRAPHY AND POTENTIAL AS SELECTABLE MARKERS",
+    "organism": "Homo sapiens",
+    "experimental_method": "X-RAY DIFFRACTION",
+    "resolution_angstrom": 2.3,
+    "chains": [
+      "A"
+    ],
+    "residue_number_range": [
+      1,
+      186
+    ],
+    "missing_residue_gaps": [],
+    "residues_with_alternate_conformations": [],
+    "heteroatom_codes_present": [
+      "HOH",
+      "MXA",
+      "NDP"
+    ],
+    "expected_ligand_code": "MXA",
+    "expected_ligand_name": "6-(2,5-dimethoxybenzyl)-5-methylpyrido[2,3-d]pyrimidine-2,4-diamine (methotrexate analog)",
+    "ligand_present": true,
+    "is_wild_type": false,
+    "mutations": [
+      "L22F"
+    ],
+    "structure_source": "EXPERIMENTALLY DETERMINED (X-ray crystal structure) -- not a modeled mutant"
+  },
+  "1DLS": {
+    "title": "METHOTREXATE-RESISTANT VARIANTS OF HUMAN DIHYDROFOLATE REDUCTASE WITH SUBSTITUTION OF LEUCINE 22: KINETICS, CRYSTALLOGRAPHY AND POTENTIAL AS SELECTABLE MARKERS",
+    "organism": "Homo sapiens",
+    "experimental_method": "X-RAY DIFFRACTION",
+    "resolution_angstrom": 2.3,
+    "chains": [
+      "A"
+    ],
+    "residue_number_range": [
+      1,
+      186
+    ],
+    "missing_residue_gaps": [],
+    "residues_with_alternate_conformations": [],
+    "heteroatom_codes_present": [
+      "HOH",
+      "MTX",
+      "NDP"
+    ],
+    "expected_ligand_code": "MTX",
+    "expected_ligand_name": "methotrexate",
+    "ligand_present": true,
+    "is_wild_type": false,
+    "mutations": [
+      "L22Y"
+    ],
+    "structure_source": "EXPERIMENTALLY DETERMINED (X-ray crystal structure) -- not a modeled mutant"
+  },
+  "3EIG": {
+    "title": "Crystal structure of a methotrexate-resistant mutant of human dihydrofolate reductase",
+    "organism": "Homo sapiens",
+    "experimental_method": "X-RAY DIFFRACTION",
+    "resolution_angstrom": 1.7,
+    "chains": [
+      "A"
+    ],
+    "residue_number_range": [
+      1,
+      186
+    ],
+    "missing_residue_gaps": [],
+    "residues_with_alternate_conformations": [
+      31,
+      33,
+      37,
+      41,
+      59,
+      118,
+      145,
+      146,
+      167
+    ],
+    "heteroatom_codes_present": [
+      "CD",
+      "HOH",
+      "MTX",
+      "SO4"
+    ],
+    "expected_ligand_code": "MTX",
+    "expected_ligand_name": "methotrexate",
+    "ligand_present": true,
+    "is_wild_type": false,
+    "mutations": [
+      "F31R",
+      "Q35E"
+    ],
+    "structure_source": "EXPERIMENTALLY DETERMINED (X-ray crystal structure) -- not a modeled mutant"
+  },
+  "3F8Z": {
+    "title": "Human Dihydrofolate Reductase Structural Data with Active Site Mutant Enzyme Complexes",
+    "organism": "Homo sapiens",
+    "experimental_method": "X-RAY DIFFRACTION",
+    "resolution_angstrom": 2.01,
+    "chains": [
+      "A"
+    ],
+    "residue_number_range": [
+      1,
+      186
+    ],
+    "missing_residue_gaps": [],
+    "residues_with_alternate_conformations": [],
+    "heteroatom_codes_present": [
+      "DH1",
+      "HOH",
+      "NDP",
+      "SO4"
+    ],
+    "expected_ligand_code": "DH1",
+    "expected_ligand_name": "PY957 (non-methotrexate inhibitor)",
+    "ligand_present": true,
+    "is_wild_type": false,
+    "mutations": [
+      "Q35S",
+      "N64S"
+    ],
+    "structure_source": "EXPERIMENTALLY DETERMINED (X-ray crystal structure) -- not a modeled mutant"
+  }
+}

@@ -1,0 +1,44 @@
+Module 5 -- structure retrieval and ligand-contact analysis
+======================================================================
+
+Structures fetched:
+  1U72: wild-type -- ligand MTX (methotrexate) [OK]
+  1DLR: L22F -- ligand MXA (6-(2,5-dimethoxybenzyl)-5-methylpyrido[2,3-d]pyrimidine-2,4-diamine (methotrexate analog)) [OK]
+  1DLS: L22Y -- ligand MTX (methotrexate) [OK]
+  3EIG: F31R, Q35E -- ligand MTX (methotrexate) [OK]
+  3F8Z: Q35S, N64S -- ligand DH1 (PY957 (non-methotrexate inhibitor)) [OK]
+
+IMPORTANT: not every structure is co-crystallized with literal methotrexate. 1U72, 1DLS, and 3EIG have MTX bound directly; 1DLR has the close pyridopyrimidine analog MXA; 3F8Z has an unrelated inhibitor (DH1/PY957). Distances below are each measured against whatever ligand is actually present in that specific crystal -- Module 6 re-docks the real methotrexate molecule into every receptor uniformly so the ΔΔG comparison there is apples-to-apples.
+
+Per-position contact summary (mutated position highlighted with *):
+----------------------------------------------------------------------
+
+1U72:
+    position 22 (WT=L, observed=L): 3.630000114440918 A -- direct contact (<4.0 A)
+    position 31 (WT=F, observed=F): 3.440000057220459 A -- direct contact (<4.0 A)
+    position 35 (WT=Q, observed=Q): 3.2899999618530273 A -- direct contact (<4.0 A)
+    position 64 (WT=N, observed=N): 2.759999990463257 A -- direct contact (<4.0 A)
+
+1DLR:
+  * position 22 (WT=L, observed=F): 2.9600000381469727 A -- direct contact (<4.0 A)
+    position 31 (WT=F, observed=F): 3.680000066757202 A -- direct contact (<4.0 A)
+    position 35 (WT=Q, observed=Q): 6.409999847412109 A -- no direct contact (>5.0 A)
+    position 64 (WT=N, observed=N): 3.75 A -- direct contact (<4.0 A)
+
+1DLS:
+  * position 22 (WT=L, observed=Y): 3.950000047683716 A -- direct contact (<4.0 A)
+    position 31 (WT=F, observed=F): 3.2300000190734863 A -- direct contact (<4.0 A)
+    position 35 (WT=Q, observed=Q): 3.5799999237060547 A -- direct contact (<4.0 A)
+    position 64 (WT=N, observed=N): 2.640000104904175 A -- direct contact (<4.0 A)
+
+3EIG:
+    position 22 (WT=L, observed=L): 3.7200000286102295 A -- direct contact (<4.0 A)
+  * position 31 (WT=F, observed=R): 3.450000047683716 A -- direct contact (<4.0 A)
+  * position 35 (WT=Q, observed=E): 3.140000104904175 A -- direct contact (<4.0 A)
+    position 64 (WT=N, observed=N): 2.8499999046325684 A -- direct contact (<4.0 A)
+
+3F8Z:
+    position 22 (WT=L, observed=L): 4.369999885559082 A -- van der Waals contact (4.0-5.0 A)
+    position 31 (WT=F, observed=F): 3.759999990463257 A -- direct contact (<4.0 A)
+  * position 35 (WT=Q, observed=S): 2.8399999141693115 A -- direct contact (<4.0 A)
+  * position 64 (WT=N, observed=S): 4.210000038146973 A -- van der Waals contact (4.0-5.0 A)

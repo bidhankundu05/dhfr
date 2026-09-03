@@ -1,0 +1,7 @@
+mutation,pdb_id,residue,ligand_contact,minimum_ligand_distance_A,wt_minimum_ligand_distance_A,wt_contact_type,nearby_contact_count,charge_change,polarity_change,aromaticity_change,side_chain_size_change_A3,hbond_capacity_change,structural_interpretation
+L22F,1DLR,22,True,2.96,3.630000114440918,direct contact,29,0,False,True,23.2,False,chemically conservative substitution
+L22Y,1DLS,22,True,3.95,3.630000114440918,direct contact,25,0,True,True,26.9,True,polarity change
+F31R,3EIG,31,True,3.45,3.440000057220459,direct contact,27,1,True,True,-16.5,True,charge change (0 -> 1); polarity change
+Q35E,3EIG,35,True,3.14,3.2899999618530273,direct contact,21,-1,False,False,-5.4,True,charge change (0 -> -1)
+Q35S,3F8Z,35,True,2.84,3.2899999618530273,direct contact,19,0,False,False,-54.8,False,substantial side-chain size change (-55 A^3)
+N64S,3F8Z,64,False,4.21,2.759999990463257,direct contact,13,0,False,False,-25.1,False,chemically conservative substitution

@@ -1,0 +1,2 @@
+pdb_id,docking_score_kcal_mol,pose_rmsd_to_crystal_angstrom,n_ligand_heavy_atoms_compared,reproduces_experimental_pose,interpretation
+1U72,-10.21,1.12437,38,True,Docking protocol successfully reproduces the experimentally observed methotrexate binding mode (RMSD < 2.0 A is the conventional 'successful redocking' threshold). This validates the METHOD -- it is NOT evidence for any mutant's binding affinity.

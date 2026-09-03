@@ -1,0 +1,5 @@
+Homo_sapiens|P00374	Rattus_norvegicus|NP_569084.1	89.840	187	19	0	1	187	1	187	2.65e-131	355	100
+Homo_sapiens|P00374	Mus_musculus|NP_034179.1	89.840	187	19	0	1	187	1	187	7.44e-131	353	100
+Homo_sapiens|P00374	Danio_rerio|NP_571850.1	61.538	182	68	1	5	184	5	186	5.12e-86	240	96
+Homo_sapiens|P00374	Saccharomyces_cerevisiae|NP_014879.1	30.769	208	116	9	1	185	8	210	1.04e-22	79.3	99
+Homo_sapiens|P00374	Escherichia_coli|NP_414590.1	27.869	183	104	9	5	185	2	158	3.43e-16	60.8	97

@@ -1,0 +1,57 @@
+{
+  "ligand": "methotrexate (PubChem CID 126941)",
+  "receptor_preparation": "Bio.PDB strip water + original crystal ligand, keep NADPH (NDP) where present; Open Babel -xrc rigid-receptor PDBQT conversion with Gasteiger charges",
+  "ligand_preparation": "PubChem 3D SDF -> Open Babel PDBQT, Gasteiger charges, pH 7.4",
+  "box_size_angstrom": 22.0,
+  "exhaustiveness": 8,
+  "num_modes_default": 9,
+  "seed": 42,
+  "vina_version": "AutoDock Vina v1.2.7",
+  "receptors": {
+    "1U72": {
+      "box_center_angstrom": [
+        30.62066650390625,
+        16.876455307006836,
+        -1.6235454082489014
+      ],
+      "best_affinity_kcal_mol": -10.21,
+      "n_modes": 9
+    },
+    "1DLR": {
+      "box_center_angstrom": [
+        30.50366973876953,
+        14.660999298095703,
+        -1.0512083768844604
+      ],
+      "best_affinity_kcal_mol": -8.971,
+      "n_modes": 9
+    },
+    "1DLS": {
+      "box_center_angstrom": [
+        30.683609008789062,
+        16.84439468383789,
+        -1.6093937158584595
+      ],
+      "best_affinity_kcal_mol": -10.39,
+      "n_modes": 9
+    },
+    "3EIG": {
+      "box_center_angstrom": [
+        11.420272827148438,
+        -5.196605682373047,
+        -18.879121780395508
+      ],
+      "best_affinity_kcal_mol": -10.55,
+      "n_modes": 9
+    },
+    "3F8Z": {
+      "box_center_angstrom": [
+        -0.9962800741195679,
+        15.747359275817871,
+        -0.6046399474143982
+      ],
+      "best_affinity_kcal_mol": -8.975,
+      "n_modes": 9
+    }
+  }
+}
