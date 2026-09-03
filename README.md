@@ -98,7 +98,7 @@ real, correct, and load-bearing for the tree in particular.
    optionally, an API key for higher rate limits:
 
    ```bash
-   export ENTREZ_EMAIL="you@example.com"
+   export ENTREZ_EMAIL="bidhan.kundu05@gmail.com"
    export ENTREZ_API_KEY="your_key_here"
    ```
 
