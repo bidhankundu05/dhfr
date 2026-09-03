@@ -207,7 +207,7 @@ isolation.
 
 ## Manuscript
 
-[`manuscript/DHFR_pipeline_report.docx`](manuscript/DHFR_pipeline_report.md)
+[`manuscript/DHFR_pipeline_report.docx`](manuscript/DHFR_pipeline_report.docx)
 is the source of truth; `.docx` and `.pdf` copies (all figures/tables
 embedded) and a Zotero-importable `.ris` reference file are generated from
 it. Structure, section set, and numbered Vancouver-style citations are
