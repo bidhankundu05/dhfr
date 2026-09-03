@@ -1,0 +1,282 @@
+TY  - JOUR
+AU  - Lewis, William S.
+AU  - Cody, Vivian
+AU  - Galitsky, Natasha
+AU  - Luft, Joseph R.
+AU  - Pangborn, Wladek
+AU  - Chunduru, Srinivas K.
+AU  - Spencer, Harry T.
+AU  - Appleman, James R.
+AU  - Blakley, Raymond L.
+TI  - Methotrexate-resistant variants of human dihydrofolate reductase with substitutions of leucine 22: kinetics, crystallography, and potential as selectable markers
+T2  - Journal of Biological Chemistry
+PY  - 1995
+VL  - 270
+IS  - 10
+SP  - 5057
+EP  - 5064
+DO  - 10.1074/jbc.270.10.5057
+UR  - https://doi.org/10.1074/jbc.270.10.5057
+ER  -
+
+TY  - JOUR
+AU  - Volpato, Jacques P.
+AU  - Yachnin, Brahm J.
+AU  - Blanchet, Jonathan
+AU  - Guerrero, Vanessa
+AU  - Poulin, Louis
+AU  - Fossati, Enrico
+AU  - Berghuis, Albert M.
+AU  - Pelletier, Joelle N.
+TI  - Multiple conformers in active site of human dihydrofolate reductase F31R/Q35E double mutant suggest structural basis for methotrexate resistance
+T2  - Journal of Biological Chemistry
+PY  - 2009
+VL  - 284
+IS  - 30
+SP  - 20079
+EP  - 20089
+DO  - 10.1074/jbc.M109.018010
+UR  - https://doi.org/10.1074/jbc.M109.018010
+ER  -
+
+TY  - JOUR
+AU  - Selga, Elisabet
+AU  - Morales, Cristina
+AU  - Noé, Verónica
+AU  - Peinado, Miguel A.
+AU  - Ciudad, Carlos J.
+TI  - Role of caveolin 1, E-cadherin, Enolase 2 and PKCalpha on resistance to methotrexate in human HT29 colon cancer cells
+T2  - BMC Medical Genomics
+PY  - 2008
+VL  - 1
+SP  - 35
+DO  - 10.1186/1755-8794-1-35
+UR  - https://doi.org/10.1186/1755-8794-1-35
+ER  -
+
+TY  - JOUR
+AU  - Altschul, Stephen F.
+AU  - Gish, Warren
+AU  - Miller, Webb
+AU  - Myers, Eugene W.
+AU  - Lipman, David J.
+TI  - Basic local alignment search tool
+T2  - Journal of Molecular Biology
+PY  - 1990
+VL  - 215
+IS  - 3
+SP  - 403
+EP  - 410
+DO  - 10.1016/S0022-2836(05)80360-2
+UR  - https://doi.org/10.1016/S0022-2836(05)80360-2
+ER  -
+
+TY  - JOUR
+AU  - Katoh, Kazutaka
+AU  - Standley, Daron M.
+TI  - MAFFT multiple sequence alignment software version 7: improvements in performance and usability
+T2  - Molecular Biology and Evolution
+PY  - 2013
+VL  - 30
+IS  - 4
+SP  - 772
+EP  - 780
+DO  - 10.1093/molbev/mst010
+UR  - https://doi.org/10.1093/molbev/mst010
+ER  -
+
+TY  - JOUR
+AU  - Grantham, Richard
+TI  - Amino acid difference formula to help explain protein evolution
+T2  - Science
+PY  - 1974
+VL  - 185
+IS  - 4154
+SP  - 862
+EP  - 864
+DO  - 10.1126/science.185.4154.862
+UR  - https://doi.org/10.1126/science.185.4154.862
+ER  -
+
+TY  - JOUR
+AU  - Price, Morgan N.
+AU  - Dehal, Paramvir S.
+AU  - Arkin, Adam P.
+TI  - FastTree 2 — approximately maximum-likelihood trees for large alignments
+T2  - PLOS ONE
+PY  - 2010
+VL  - 5
+IS  - 3
+SP  - e9490
+DO  - 10.1371/journal.pone.0009490
+UR  - https://doi.org/10.1371/journal.pone.0009490
+ER  -
+
+TY  - JOUR
+AU  - Piñeiro, Cristian
+AU  - Abuín, Jose M.
+AU  - Pichel, Juan C.
+TI  - Very Fast Tree: speeding up the estimation of phylogenies for large alignments through parallelization and vectorization strategies
+T2  - Bioinformatics
+PY  - 2020
+VL  - 36
+IS  - 17
+SP  - 4658
+EP  - 4659
+DO  - 10.1093/bioinformatics/btaa582
+UR  - https://doi.org/10.1093/bioinformatics/btaa582
+ER  -
+
+TY  - JOUR
+AU  - Cock, Peter J. A.
+AU  - Antao, Tiago
+AU  - Chang, Jeffrey T.
+AU  - Chapman, Brad A.
+AU  - Cox, Cymon J.
+AU  - Dalke, Andrew
+AU  - Friedberg, Iddo
+AU  - Hamelryck, Thomas
+AU  - Kauff, Frank
+AU  - Wilczynski, Bartek
+AU  - de Hoon, Michiel J. L.
+TI  - Biopython: freely available Python tools for computational molecular biology and bioinformatics
+T2  - Bioinformatics
+PY  - 2009
+VL  - 25
+IS  - 11
+SP  - 1422
+EP  - 1423
+DO  - 10.1093/bioinformatics/btp163
+UR  - https://doi.org/10.1093/bioinformatics/btp163
+ER  -
+
+TY  - JOUR
+AU  - Kim, Sunghwan
+AU  - Chen, Jie
+AU  - Cheng, Tiejun
+AU  - Gindulyte, Asta
+AU  - He, Jia
+AU  - He, Siqian
+AU  - Li, Qingliang
+AU  - Shoemaker, Benjamin A.
+AU  - Thiessen, Paul A.
+AU  - Yu, Bo
+AU  - Zaslavsky, Leonid
+AU  - Zhang, Jian
+AU  - Bolton, Evan E.
+TI  - PubChem 2023 update
+T2  - Nucleic Acids Research
+PY  - 2023
+VL  - 51
+IS  - D1
+SP  - D1373
+EP  - D1380
+DO  - 10.1093/nar/gkac956
+UR  - https://doi.org/10.1093/nar/gkac956
+ER  -
+
+TY  - JOUR
+AU  - O'Boyle, Noel M.
+AU  - Banck, Michael
+AU  - James, Craig A.
+AU  - Morley, Chris
+AU  - Vandermeersch, Tim
+AU  - Hutchison, Geoffrey R.
+TI  - Open Babel: an open chemical toolbox
+T2  - Journal of Cheminformatics
+PY  - 2011
+VL  - 3
+SP  - 33
+DO  - 10.1186/1758-2946-3-33
+UR  - https://doi.org/10.1186/1758-2946-3-33
+ER  -
+
+TY  - JOUR
+AU  - Eberhardt, Jerome
+AU  - Santos-Martins, Diogo
+AU  - Tillack, Andreas F.
+AU  - Forli, Stefano
+TI  - AutoDock Vina 1.2.0: new docking methods, expanded force field, and Python bindings
+T2  - Journal of Chemical Information and Modeling
+PY  - 2021
+VL  - 61
+IS  - 8
+SP  - 3891
+EP  - 3898
+DO  - 10.1021/acs.jcim.1c00203
+UR  - https://doi.org/10.1021/acs.jcim.1c00203
+ER  -
+
+TY  - JOUR
+AU  - Ritchie, Matthew E.
+AU  - Phipson, Belinda
+AU  - Wu, Di
+AU  - Hu, Yifang
+AU  - Law, Charity W.
+AU  - Shi, Wei
+AU  - Smyth, Gordon K.
+TI  - limma powers differential expression analyses for RNA-sequencing and microarray studies
+T2  - Nucleic Acids Research
+PY  - 2015
+VL  - 43
+IS  - 7
+SP  - e47
+DO  - 10.1093/nar/gkv007
+UR  - https://doi.org/10.1093/nar/gkv007
+ER  -
+
+TY  - JOUR
+AU  - Pedregosa, Fabian
+AU  - Varoquaux, Gaël
+AU  - Gramfort, Alexandre
+AU  - Michel, Vincent
+AU  - Thirion, Bertrand
+AU  - Grisel, Olivier
+AU  - Blondel, Mathieu
+AU  - Prettenhofer, Peter
+AU  - Weiss, Ron
+AU  - Dubourg, Vincent
+AU  - Vanderplas, Jake
+AU  - Passos, Alexandre
+AU  - Cournapeau, David
+AU  - Brucher, Matthieu
+AU  - Perrot, Matthieu
+AU  - Duchesnay, Édouard
+TI  - Scikit-learn: machine learning in Python
+T2  - Journal of Machine Learning Research
+PY  - 2011
+VL  - 12
+SP  - 2825
+EP  - 2830
+UR  - https://jmlr.org/papers/v12/pedregosa11a.html
+ER  -
+
+TY  - JOUR
+AU  - Waskom, Michael L.
+TI  - seaborn: statistical data visualization
+T2  - Journal of Open Source Software
+PY  - 2021
+VL  - 6
+IS  - 60
+SP  - 3021
+DO  - 10.21105/joss.03021
+UR  - https://doi.org/10.21105/joss.03021
+ER  -
+
+TY  - JOUR
+AU  - Cody, Vivian
+AU  - Pace, Jim
+AU  - Makin, Jenny
+AU  - Piraino, Jim
+AU  - Queener, Sherry F.
+AU  - Rosowsky, Andre
+TI  - Correlations of inhibitor kinetics for Pneumocystis jirovecii and human dihydrofolate reductase with structural data for human active site mutant enzyme complexes
+T2  - Biochemistry
+PY  - 2009
+VL  - 48
+IS  - 8
+SP  - 1702
+EP  - 1711
+DO  - 10.1021/bi801960h
+UR  - https://doi.org/10.1021/bi801960h
+ER  -
